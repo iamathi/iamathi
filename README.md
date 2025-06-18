@@ -1,18 +1,45 @@
-# 👋 Hello! I'm Athiban Balaji.C.D
+# Hi, I'm Athiban 👋
 
-- 🧠 AI & Machine Learning Explorer
-- 🎯 Goal: Become a top AI developer by 20
-- 🚀 Currently working on: ML Projects + AI Product 
-- 💼 Looking for freelance & collab opportunities
-
-## 📂 Projects
-
-### 🔹 Rock vs Mine Predictor
-Classifies sonar signals as "rock" or "mine" using Logistic Regression  
-👉 [View Project Here]()
+🎓 16 y/o AI learner from Tamil Nadu, India  
+💡 Passionate about Machine Learning, Deep Learning & Real-World AI Systems  
+🚀 Goal: Become a world-class AI developer by 18  
+🎯 Currently building: AI projects, GitHub portfolio, and knowledge that pays back!
 
 ---
-📬 Reach me at: chelladuraipushpavathi@gmail.com
+
+## 🧠 Current Focus
+
+- Machine Learning (sklearn, pandas, NumPy)
+- Deep Learning (coming soon)
+- Real-world AI Projects (predictive models, assistant systems)
+- GitHub Portfolio Building
+
+---
+
+## 🛠️ Projects
+
+| Project | Description | Status |
+|--------|-------------|--------|
+| **Rock vs Mine Predictor** | ML model to classify sonar signals as rock or mine | ✅ Done |
+| **Diabetes Predictor** | Predict diabetes using patient data (sklearn) | 🔜 Coming Soon |
+| **Aura Stick (Offline Voice Assistant)** | Building a smart, portable, offline voice assistant | 🧪 In R&D phase |
+
+> More projects coming every week 🔥
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: chelladuraipushpavathi@gmail.com (for collabs, projects, portfolio)
+
+---
+
+## 🧠 Philosophy
+
+> _"Never give up on yourself. Even I won't give up on me — ."_  
+> — Athiban
+
+
 
 
 <!--
