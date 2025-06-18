@@ -2,7 +2,7 @@
 
 - 🧠 AI & Machine Learning Explorer
 - 🎯 Goal: Become a top AI developer by 20
-- 🚀 Currently working on: ML Projects + AI Product (Aura Stick)
+- 🚀 Currently working on: ML Projects + AI Product 
 - 💼 Looking for freelance & collab opportunities
 
 ## 📂 Projects
